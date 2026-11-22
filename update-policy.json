@@ -1,7 +1,7 @@
 {
   "android": {
-    "recommendedVersionCode": 14,
-    "necessaryVersionCode": 14
+    "recommendedVersionCode": 0,
+    "necessaryVersionCode": 0
   },
   "ios": {
     "recommendedVersionCode": 0,
