@@ -1,0 +1,10 @@
+{
+  "android": {
+    "recommendedVersionCode": 0,
+    "necessaryVersionCode": 0
+  },
+  "ios": {
+    "recommendedVersionCode": 0,
+    "necessaryVersionCode": 0
+  }
+}
